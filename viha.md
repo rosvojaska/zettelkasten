@@ -1,6 +1,6 @@
 # Viha ja vihanhallinta
 
-- #[[Emootio]]
+- #[[Emootiot]]
 
 _"Negatiivisesti sävyttynyt emootio, joka koetaan sellaisena reaktiivisen, vihamielisenä tilana, joka kohdistuu joko sellaiseen ihmiseen tai asiaan, joka nähdään vastentahtoisen tapahtuman lähteenä."_ - Novaco, 1994
 - Voimakas autonomoisen hermoston reaktiivisuus.
