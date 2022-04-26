@@ -3,7 +3,7 @@
 , author = Some "Jaska"
 , siteBaseUrl = Some "https://srid.github.io/neuron-template/"
 -- List of color names: https://semantic-ui.com/usage/theming.html#sitewide-defaults
-, theme = "teal"
+, theme = "brown"
 -- This is used in the "edit" button
 , editUrl = Some "https://github.com/rosvojaska/zettelkasten/edit/master/"
 }
