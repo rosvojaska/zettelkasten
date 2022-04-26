@@ -49,3 +49,11 @@ Tilan merkkaaminen on lapsilla keskeisemmässä asemassa, mutta voi olla  avuksi
 - Systeemiset perheterapiat,kuten Milanolainen tai narratiivinen,ei auta
 - Psykoterapia voi ola tarpeen, jos ADHD:n lisäksi on muita psyykkisia häiriöitä, muuten ei kaikista tehokkainta.
   - Käyttäytymisterapeuttisia menetelmiä on hyvä opetella osaksi arkea, mutta ei kannata ravata psykoterapiassa
+
+## Perheinterventio
+ADHD-nuorten kodeissa voi esiintyä tavallista enemmän konflikteja liittyen käyttäytymisen, tarkkaavuuden ja itsesäätelyn puutteisiin.
+
+Strukturoitu vanhempainohjaus vähentää lapsen ja vanhempien välisiä konflikteja, lapsen uhmakkuutta ja muuta häiritsevää käyttäytymistä ja jopa jossain määrin ADHD-oireita.
+
+Tapaamiset | Aihe
+_________________
