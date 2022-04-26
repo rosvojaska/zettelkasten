@@ -24,4 +24,4 @@ Tyypillisiä psykiatrisia liitännäisoireita ovat:
 
 Tyypillistä on myös nukkumiseen liittyuvät vaikeudet, kuten viivästynyt unirytmi, levottomat jalat, heikko unen laatu ja lisääntynyt yöllinen aktiviteetti.
 
-[[Toiminnanohjaus]]#
+#[[Toiminnanohjaus]]
