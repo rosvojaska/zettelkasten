@@ -13,5 +13,15 @@ Arvioiden mukaan jopa 70 % oireisista on oppimisvaikeuksia, joista yleisinpänä
 
 Tärkeää on myös pohtia, että ADHD-tyyppinen oireilu voi olla lopulta ihan normaalia vaihtelua mitä ihmisissä tapahtuu. Mihin pisteeseen asti on tärkeää patologisoida ADHD:ta?
 
+Tyypillisiä psykiatrisia liitännäisoireita ovat:
+1. Mielialahäiriöt
+2. Ahdistuneisuushäiriöt
+3. Käytöshäiriö
+4. Päihderiippuvuus
+5. Nikotiiniriippuvuus
+6. Syömishäiriöt
+7. Persoonallisuushäriöt
+
+Tyypillistä on myös nukkumiseen liittyuvät vaikeudet, kuten viivästynyt unirytmi, levottomat jalat, heikko unen laatu ja lisääntynyt yöllinen aktiviteetti.
 
 [[Toiminnanohjaus]]#
