@@ -2,4 +2,4 @@
 
 Tunteet vai tuntemukset?
 
-- [[Viha]]#
+- [[Viha ja vihanhallinta]]#
