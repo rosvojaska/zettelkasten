@@ -64,4 +64,4 @@ Kognitiiviset menetelmät:
   - Reagoimattomuuden harjoittelua
 - Dialektinen käyttäymysterapia
 
-- [[Emootio]]
+- #[[Emootio]]
