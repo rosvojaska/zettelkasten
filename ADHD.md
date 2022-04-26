@@ -24,4 +24,11 @@ Tyypillisiä psykiatrisia liitännäisoireita ovat:
 
 Tyypillistä on myös nukkumiseen liittyuvät vaikeudet, kuten viivästynyt unirytmi, levottomat jalat, heikko unen laatu ja lisääntynyt yöllinen aktiviteetti.
 
-#[[Toiminnanohjaus]]
+Tarkkaavuuden ja toiminnan vaikeuksien tukeminen
+  - Hyvin strukturoitu ympäristö ja päiväjärjestys
+  - Myönteinen asenne lasta kohtaan
+  - Välitön palkitseminen on tärkeää (kehu, kultatähti jne.)
+  - Usein tarvitaan tavallista enemmän henkilökohtaista ohjausta
+  - Muiden tukitoimien lisänä vaikeimmissa häiriöissä lääkehoito mahdollinen
+
+[[Toiminnanohjaus]]
