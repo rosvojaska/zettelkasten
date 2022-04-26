@@ -65,3 +65,25 @@ Kognitiiviset menetelmät:
   - Osallistuminen, flow-kokemus
   - Reagoimattomuuden harjoittelua
 - Dialektinen käyttäymysterapia
+
+
+## Vihaisuuteen vastaaminen terapiasuhteessa
+Vihaisuudessa ei sinällään ole mitään pahaa tunteena, mutta vihamielinen käytös tulee vataanotolla blokata. Sanotaan vaikka että nyt _seis stop_, otetaan vaikka lasi vettä ja jatketaan vasta kun potilas on rauhoittunut. Tarjotaan mahdollisuus potilaalle käydä pihalla vähä puhaltelemassa. Tämän jälkeen voidaan huo
+- Vihaisuus hoidon kohteena
+  - Tunnista ja määrittele ongelmakäyttäytyminen selkeästi
+  - _Kontingenssi klarifikaatio_ = selvitetään asiakkaalle miksi ja miten vihaisuus haittaa terapiaa
+  - Määritetään laukaisevat tekijät ja tilanteet, jotka lisäävät haavoittuvuutta
+  - Validodaan primaariemootio vihaisuuden takana ja asiakkaan emotionaalinen kokemus
+  - Tutkitaan vihaisuuteen liittyviä kognitioita
+  - Selvitetään vihaisuuden funktio tai sen seuraukset 
+- Psykoedukaatio vihaisuudesta
+  - Potilas varautuu uhkaan
+  - Voi olla hyvä erottaa respondentti ja operantti aggressio
+  - Selvitetään potilaan kanssa mikä tilanteessa uhkaa? Onko tilanne uhkaava vai onko jostain asiasta puhuminen tai muistelu se joka vihastuttaa
+  - Vihaiset ajatukset ja yllykkeet eivät tarkoita, että tarvitsee toimia vihamielisesti
+- Haavoittuvuustekijöiden vähentäminen vihaisuudelle
+  - ABC PLEASE-taitokokonaisuus, vähennetään tunnehaavoittuvuutta
+  - _Coping ahead of time_ eli vihaan liittyvien stressaavien tilanteiden etukäteissuunnittelu ja harjoittelu
+- Vihaisuutta provosoivien tilanteiden välttäminen
+  - Vihjeiden eliminointi, _cue elimination_
+  - _Opposite action_
