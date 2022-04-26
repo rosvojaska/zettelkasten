@@ -1,4 +1,4 @@
-#Hyväksymis- ja omistautumisterapia
+# Hyväksymis- ja omistautumisterapia
 
 - Kieli vaikuttaa kokemukseen ja käyttäytymiseen
 - Toimii paremmin paremmassa kunnossa olevilla ihmisillä
