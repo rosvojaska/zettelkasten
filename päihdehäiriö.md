@@ -39,6 +39,8 @@ Sessio 2:
   - Eli harjoitellaan vastustamaan yllykettä huomioimalla keholliset tuntemukset
  Sessio 4:
  - Ollaan läsnä hankalissa tilanteissa tai ihmisten kanssa, jotka ennen ovat johtaneet päihdekäyttöön
+ Sessio 5:
+ - Hyväksyntä ja taidokas toiminta
 
 ## Yllykkeellä surffaus
 Esimerkki tälläisestä harjoituksesta on laittaa konvehti suuhun ja antaa sen sulaa siellä. Ei pureskella tai imeskellä sitä. Kuola vaan valuu ja _ai että_ kun tekisi mieli maistaa, mutta annetaan sen nyt vaan sulaa siellä.
