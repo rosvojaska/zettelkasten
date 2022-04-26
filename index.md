@@ -13,5 +13,6 @@ Other pages on this zettelkasten:
 
 - [[faq]]#
  
-- [[ADHD]]
+- [[ADHD]]#
+- [[HOT]]#
 - [[Toiminnanohjaus]]
