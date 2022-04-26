@@ -31,7 +31,7 @@ Lähes yhtä yleistä psykiatrisessa hoidossa kuin masennus ja ahdistuneisuus.
 Keskeiset komorbiditeetit:
 - vakava masennus
 - kaksisuuntainen mielialahäiriö (tyyppi 1)
-- [[persoonallisuushäiriöt|persoonallisuushäiriö]] (B klusteri, eli _dramaattiset persoonallisuushäiriöt_)
+- [[Persoonallisuushäiriö]] (B klusteri, eli _dramaattiset persoonallisuushäiriöt_)
   - Epäsosiaalinen
   - Epävakaa
   - Huomiohakuinen
