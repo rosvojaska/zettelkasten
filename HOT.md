@@ -14,5 +14,3 @@
 - Metaforien käyttö keskeistä HOT:ssa
 - Potilaan tulisi huomata emootioiden ja ajatusten kontrolloimisen turhuus
 - Älä ruoki leijonaa: ajatusten kontrollointi vain pahentaa asiaa
-
-- #[[INDEX]]
