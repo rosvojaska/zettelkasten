@@ -23,5 +23,5 @@ Siirtymätilanteet tulisi suunnitella etukäteen. Kellon voi laittaa soimaan 15 
 
 Tehtävien tekoon tarkoitetun paikan tulisi olla mahdollisimman rauhallinen ja rajattu, varsinkin harjoitetaessa uutta asiaa.
 
-[[ADHD]]
+#[[ADHD]]
 [[Palkitseminen]]
