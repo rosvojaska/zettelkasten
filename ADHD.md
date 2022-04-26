@@ -41,3 +41,11 @@ Tilan merkkaaminen on lapsilla keskeisemmässä asemassa, mutta voi olla  avuksi
 - Sääntöjen oppimista ja seuraamista voi opetella pelien avulla
   - Varsinkin käytöshäiriöisillä lapsilla hyvä keino
 - Mikä käytös on hyväksyttävää ja mikä ei tulisi olla selvillä
+
+## Käypä hoito
+- Käyttäytymisterapia tehoaa keskeisiin oireisiin, muttei yhtä hyvin kuin lääkitys
+- Kognitiivinen käyttäytymisterapia saattaa auttaa tunne-elämän ja käyttäytymisen ongelmiin
+- Psykodynaaminen ja -analyyttinen yksilöpsykoterapia voi ehkä auttaa
+- Systeemiset perheterapiat,kuten Milanolainen tai narratiivinen,ei auta
+- Psykoterapia voi ola tarpeen, jos ADHD:n lisäksi on muita psyykkisia häiriöitä, muuten ei kaikista tehokkainta.
+  - Käyttäytymisterapeuttisia menetelmiä on hyvä opetella osaksi arkea, mutta ei kannata ravata psykoterapiassa
