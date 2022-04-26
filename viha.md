@@ -39,4 +39,4 @@ Keskeiset komorbiditeetit:
   - Narsistinen
 - PTSD
 
-- #[[Emootio]]
+- [[Emootio]]
