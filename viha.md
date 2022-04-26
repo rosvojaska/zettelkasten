@@ -38,4 +38,32 @@ Keskeiset komorbiditeetit:
   - Narsistinen
 - PTSD
 
+## Vihaisuuden hoito aikuisilla
+Yhdistelmäinterventioissa on tärkeää muistaa, että enemmän ei ole enemmän. Huolellisen käyttäytymisanalyysin jälkeen voi eri interventioita yhdistellä, mutta ei kannata tätä tehdä ihan oletuksena.
+Kognitiiviset menetelmät:
+- Itsehavainnointimenetelmät
+  - Vihaisuuteen liittyvät kognitiot
+  - Kognitioiden vaikutus vihareaktion syntyyn ja niiden muuttaminen vihareaktion vähenemiseen
+- Kognitiivinen uudelleenmuotoilu
+  - Arvioidaan ajatusten merkitystä, validisuutta ja seurauksia
+  - Mustavalkoisten ajatusten haastaminen: etsitään todisteita puolesta ja vastaan
+- [[Stress inoculation training|stressirokotus]], self-instructional training
+  - Ihminen antaa itselleen ohjeita vaikeassa tilanteessa
+  - "Rauhoitu ja rauhoitu, ei tässä ole mitään syytä hermostua"
+- Rentoutusmenetelmät
+  - Rentoudutaan samaan aikaan vihaa herättävän mielikuvan kanssa, desensitisaatio
+- Taitojen opettaminen
+  - Taitopuutokset: keskeiset elämäntaidot kuten miten toimia parisuhteessa tai esimies-alainen suhteessa
+  - Miten selvitään ristiriitatilanteissa? Kritiikistä? Pettymyksistä?
+  - Tarkoitus on oppia tehokkaampia tunteiden ilmaisun keinoja, kuuuntelutaitoja, ristiriitojen hallintastrategiaa yms.
+- Altistusmenetelmät
+  - Vihareaktio on analoginen ahdistuneisuuden ja pelon välisestä suhteesta
+  - Asiakas altistetaan vittuilulle, kritiikille ym.
+  - Altistusta jatketaan niin kauan, että syntynyt vihareaktio sammuu kokonaan tai selvästi heikkenee
+  - Näyttöä ei ole vielä paljoa, mutta se mitä on lupaa hyvää
+- Tietoisuustaidot, mindfulness
+  - Huomion kohdistamista ja toistuvaa palauttamista johonkin tiettyyn asiaan
+  - Osallistuminen, flow-kokemus
+  - Reagoimattomuuden harjoittelua
+
 - [[Emootio]]
