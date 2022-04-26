@@ -32,3 +32,12 @@ Karsi turhat ärsykkeet pois tilasta.
 Pintojen tulisi olla melua vähentäviä.
 Tila voidaan jakaa toimintojen mukaan esim. teipillä lattiaan. Kuvapromptit voivat myös selkeyttää. Time-timer.
 Tilan merkkaaminen on lapsilla keskeisemmässä asemassa, mutta voi olla  avuksi myös aikuisille.
+
+## Tehtävätilanteet
+- Opiskelu ja muistiinpainamismenetelmien oppiminen tärkeää
+  - Ihmisen tulisi löytää itselleen sopiva tapa painaa asioita muistiin
+
+## Sosiaalisten taitojen harjoittelu
+- Sääntöjen oppimista ja seuraamista voi opetella pelien avulla
+  - Varsinkin käytöshäiriöisillä lapsilla hyvä keino
+- Mikä käytös on hyväksyttävää ja mikä ei tulisi olla selvillä
