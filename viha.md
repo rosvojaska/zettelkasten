@@ -63,5 +63,3 @@ Kognitiiviset menetelmät:
   - Osallistuminen, flow-kokemus
   - Reagoimattomuuden harjoittelua
 - Dialektinen käyttäymysterapia
-
-- #[[Emootio]]
