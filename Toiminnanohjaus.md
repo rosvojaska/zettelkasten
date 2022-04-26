@@ -21,6 +21,7 @@ Siirtymätilanteet tulisi suunnitella etukäteen. Kellon voi laittaa soimaan 15 
 
 ## On-Task-Behaviour ja Off-Task-Behaviour
 
-Tehtävien tekoon tarkoitetun paikan tulisi olla mahdollisimman rauhallinen ja rajattu, varsinkin harjoitetaessa uutta asiaa. 
+Tehtävien tekoon tarkoitetun paikan tulisi olla mahdollisimman rauhallinen ja rajattu, varsinkin harjoitetaessa uutta asiaa.
 
 [[ADHD]]
+[[Palkitseminen]]
