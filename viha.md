@@ -8,4 +8,21 @@ _"Negatiivisesti sävyttynyt emootio, joka koetaan sellaisena reaktiivisen, viha
 - Vihaan liittyy informatiivisia arvioita. Näissä korostuneina ovat muiden pahat teot, jotka motivoivat vihamielistä käyttäytymistä
 - Luolissa kun asuttiin, niin vihan tarkoitus on ollut ajaa muut heimot pois omilta alueilta
 
+Vihamielisyys tarkoittaa pysyviä asenteita, jotka voivat olla yleisiä tai tilannesidonnaisia.
+
+## Respondentti aggressiivisuus
+Kipu tai muu tunne kehossa saa henkilön vastaamaan aggressiivisuudella.
+_Tilannevihaisuus_ on tilanteeseen liittyvä vihareaktio.
+
+## Operantti aggressiivisuus
+Toiminallista vihamielisyyttä. Henkilö operoi aggressiividuusen avulla, eli pyrkii muuttamaan tilannetta aggressiivisuudella. Ihminen kun lyö nyrkillä pöytään ja huutaa, niin tila hiljenee. Opittua käyttäytymistä.
+_Piirrevihaisuus_ on alttius kokea usein voimakasta vihaa. Pysyvämpi ja vakaammin toistuva käyttäytymismalli.
+
+Kaikki käyttäytyminen ilmenee kolmella tasolla:
+1. Kognitiivisella
+2. Autonomisella (fysiologisella)
+3. Motorisella
+
+Organismin geneettisen perimän, oppimishistorian ja ympäristön yhteisvaikutuksena eri komponentit painottuvat yksilöllisesti eri tilanteissa.
+
 - #[[Emootio]]
