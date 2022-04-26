@@ -13,4 +13,6 @@ Tarkkaavuuden ja toiminnan vaikeuksien tukeminen
   - Usein tarvitaan tavallista enemmän henkilökohtaista ohjausta
   - Muiden tukitoimien lisänä vaikeimmissa häiriöissä lääkehoito mahdollinen
 
-[[ADHD]]#
+Huomion suuntaamisen vaikeuksien kanssa liika luppoaika johtaa sähläämiseen ja ajan täyttämiseen muulla tötöilyllä.
+
+[[ADHD]]
