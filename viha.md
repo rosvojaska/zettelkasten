@@ -25,9 +25,7 @@ Kaikki käyttäytyminen ilmenee kolmella tasolla:
 Organismin geneettisen perimän, oppimishistorian ja ympäristön yhteisvaikutuksena eri komponentit painottuvat yksilöllisesti eri tilanteissa.
 
 ## Vihaisuuden komorbiditeetti
-
 Lähes yhtä yleistä psykiatrisessa hoidossa kuin masennus ja ahdistuneisuus.
-
 Keskeiset komorbiditeetit:
 - vakava masennus
 - kaksisuuntainen mielialahäiriö (tyyppi 1)
@@ -37,7 +35,6 @@ Keskeiset komorbiditeetit:
   - Huomiohakuinen
   - Narsistinen
 - PTSD
-
 ## Vihaisuuden hoito aikuisilla
 Yhdistelmäinterventioissa on tärkeää muistaa, että enemmän ei ole enemmän. Huolellisen käyttäytymisanalyysin jälkeen voi eri interventioita yhdistellä, mutta ei kannata tätä tehdä ihan oletuksena.
 Kognitiiviset menetelmät:
@@ -65,5 +62,6 @@ Kognitiiviset menetelmät:
   - Huomion kohdistamista ja toistuvaa palauttamista johonkin tiettyyn asiaan
   - Osallistuminen, flow-kokemus
   - Reagoimattomuuden harjoittelua
+- Dialektinen käyttäymysterapia
 
 - [[Emootio]]
