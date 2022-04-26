@@ -6,5 +6,4 @@
 , theme = "teal"
 -- This is used in the "edit" button
 , editUrl = Some "https://github.com/rosvojaska/zettelkasten/edit/master/"
-
 }
