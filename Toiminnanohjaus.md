@@ -6,4 +6,4 @@ Kyky toimia tilanteen ja taitojen mukaan tarkoituksenmukaisesti
 - Toimiminen suunnitelman mukaisesti
 - Oman toiminnan arviointi
 
-[[ADHD]]
+[[ADHD]]#
