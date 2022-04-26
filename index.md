@@ -2,8 +2,8 @@
 
 Tärkeää asiaa kognitiivisesta käyttäytymisterapiasta.
 
-- ylempänä hierarkiassa#
-- #alempana hierarkiassa
+- #ylempänä hierarkiassa
+- alempana hierarkiassa#
 
 
 ---
