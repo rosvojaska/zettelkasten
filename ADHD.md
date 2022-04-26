@@ -1,6 +1,6 @@
 # ADHD
 
-Ei voida tutkia ADHD:ta ennen kun on traumaa hoidettu hei.
+Ei voida tutkia ADHD:ta ennen kun on traumaa hoidettu hei. - _JENNI AIRIKKA-MÄENPÄÄ_
 
 Tarkkaavuus on tiedon valikointia.
   - Huomion suuntaaminen tai kohdentaminen
@@ -25,3 +25,10 @@ Tyypillisiä psykiatrisia liitännäisoireita ovat:
 Tyypillistä on myös nukkumiseen liittyuvät vaikeudet, kuten viivästynyt unirytmi, levottomat jalat, heikko unen laatu ja lisääntynyt yöllinen aktiviteetti.
 
 [[Toiminnanohjaus]]
+
+## Tilan strukturointi
+
+Karsi turhat ärsykkeet pois tilasta.
+Pintojen tulisi olla melua vähentäviä.
+Tila voidaan jakaa toimintojen mukaan esim. teipillä lattiaan. Kuvapromptit voivat myös selkeyttää. Time-timer.
+Tilan merkkaaminen on lapsilla keskeisemmässä asemassa, mutta voi olla  avuksi myös aikuisille.
