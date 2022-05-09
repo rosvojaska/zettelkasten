@@ -1,4 +1,15 @@
+---
+tags:
+  - misc/readme
+---
+
 https://rosvojaska.github.io/zettelkasten/
+
+
+Linkkien lisääminen: [[linkki]] tai [linkki|teksti tulee tähän]]
+
+Eli onko tämä nyt #tag vai mikä?
+
 
 # How to publish your own [neuron] site
 
