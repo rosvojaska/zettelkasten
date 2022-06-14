@@ -8,12 +8,18 @@ Tärkeää asiaa kognitiivisesta käyttäytymisterapiasta.
 Teemuryhäsen kkt-diat:
 1. [Miksi ihmiset kärsii? Ja mikä hoidoksi?](./static/KKT_ryhänen_1.pdf)
 	- Käyttäytymisen määritelmät, muutosmekanismit, interventiot ja hoidot
-2. [Dia 2](./static/KKT_ryhänen_2.pdf)
+2. [Masennus ja mielialansäätely](./static/KKT_ryhänen_2.pdf)
+	- Masennus, krooninen masennus, CBASP, MBCT, UP, kaksisuuntainen mielialahäiriö
 3. [Ahdistuneisuuden hoitaminen](./static/KKT_ryhänen_3.pdf)
  	- Ahdistuneisuus, fobiat, sosiaalisten tilanteiden pelko, paniikkihäiriö, PTSD
-4. [Dia 4](./static/KKT_ryhänen_4.pdf)
-5. [Dia 5](./static/KKT_ryhänen_5.pdf)
-6. [Dia 6](./static/KKT_ryhänen_6.pdf)
+4. [Tunteensäätelyhäiriöt ja –taidot](./static/KKT_ryhänen_4.pdf)
+	- Tunnetaitoja, välttelyn lopettaminen, UP, taitoja ahdistuneisuuteen ja masentuneisuuteen
+5. [OCD ja siihen liittyvät häiriöt, ADHD,
+addiktiohäiriöt ja retkahduksen ehkäisy sekä
+vihanhallinnan ongelmien hoito](./static/KKT_ryhänen_5.pdf)
+	- Pakko-oireet, Tourette, kehodysmorfia, ADHD, vihanhallinta, päihdehäiriöt
+6. [Dialektinen käyttäytymisterapia](./static/KKT_ryhänen_6.pdf)
+	- Dialektinen käyttäytymisterapia
 
 [[z:zettels]]
 
