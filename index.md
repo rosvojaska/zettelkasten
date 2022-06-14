@@ -2,10 +2,7 @@
 
 Tärkeää asiaa kognitiivisesta käyttäytymisterapiasta.
 
-- #ylempänä hierarkiassa
-- alempana hierarkiassa#
-
-Teemuryhäsen kkt-diat:
+### Teemuryhäsen kkt-diat:
 1. [Miksi ihmiset kärsii? Ja mikä hoidoksi?](./static/KKT_ryhänen_1.pdf)
 	- Käyttäytymisen määritelmät, muutosmekanismit, interventiot ja hoidot
 2. [Masennus ja mielialansäätely](./static/KKT_ryhänen_2.pdf)
