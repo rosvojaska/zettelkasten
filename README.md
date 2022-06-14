@@ -4,6 +4,7 @@ tags:
 ---
 
 https://rosvojaska.github.io/zettelkasten/
+https://www.cerveau.app/-/rosvojaska/zettelkasten/master/index
 
 
 Linkkien lisääminen: [[linkki]] tai [linkki|teksti tulee tähän]]
