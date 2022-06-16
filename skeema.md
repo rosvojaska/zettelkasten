@@ -7,3 +7,6 @@
 
 ## Jooga
 - Fyysinen rasitus yhdistettynä rauhalliseen hengitykseen on se mikä ohjelmoi hermostoa uusiksi.
+
+## Skeematerapia
+- Leikkisään lapseen voi saada kontaktia ainakin siten, että pistää potilaan keskustelemaan pehmolelun kanssa. Tilanteen absurdius voi ihmisen herättää siihen, että ehkä tämä asian vatvominen oli tässä.
