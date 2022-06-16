@@ -18,6 +18,8 @@ vihanhallinnan ongelmien hoito](./static/KKT_ryhänen_5.pdf)
 6. [Dialektinen käyttäytymisterapia](./static/KKT_ryhänen_6.pdf)
 	- Dialektinen käyttäytymisterapia
 
+[Teemun aarreaitta](https://www.dropbox.com/sh/n5bsoozqffci7qs/AACjk_JIpOanPU79KPYrylgMa?dl=0) sisältää loput kilkkeet mitä koulutuksessa käytiin läpi.
+
 [[z:zettels]]
 
 
