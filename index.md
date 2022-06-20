@@ -1,3 +1,8 @@
+---
+tags:
+  - ohje
+---
+
 # Kognitiivinen käyttäytymisterapian koulutus
 
 Tärkeää asiaa kognitiivisesta käyttäytymisterapiasta.
@@ -27,9 +32,10 @@ vihanhallinnan ongelmien hoito](./static/KKT_ryhänen_5.pdf)
 # Täyttöohje
 Virallinen ohjeistus löytyy [täältä](https://neuron.zettel.page/).
 
-Linkittäminen ulkopuoliseen kohteeseen: 
-´´´ [tälläistä](https://www.youtube.com/watch?v=QOdYgEDSm7E).
-
+Linkittäminen zettelkastenin ulkopuolelle: 
+```
+[ilmaisia logoja](https://www.svgrepo.com/)
+```
 ---
 by: jaska n
 
