@@ -24,6 +24,12 @@ vihanhallinnan ongelmien hoito](./static/KKT_ryhänen_5.pdf)
 
 
 
+# Täyttöohje
+Virallinen ohjeistus löytyy [täältä](https://neuron.zettel.page/).
+
+Linkittäminen ulkopuoliseen kohteeseen: 
+´´´ [tälläistä](https://www.youtube.com/watch?v=QOdYgEDSm7E).
+
 ---
 by: jaska n
 
