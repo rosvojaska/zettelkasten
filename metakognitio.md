@@ -1,4 +1,4 @@
-#Metakognitio
+# Metakognitio
 _"Thinking about thinking."_
 
 Potilas ajattelee että "olen arvoton", niin luontevaa olisi hakea tälle vastaväitteitä.
