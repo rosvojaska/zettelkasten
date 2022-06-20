@@ -36,6 +36,16 @@ Linkittäminen zettelkastenin ulkopuolelle:
 ```
 [ilmaisia logoja](https://www.svgrepo.com/)
 ```
+Alaviitteen tekeminen:
+1. Ensin laitetaan että mihin viite tulee tekstissä
+	```
+	Ja se on niin kuin se on [^unicode].
+	```
+2. Sitten mitä viitteessä lukee
+	```
+	[^unicode] Ja näin se siis on.
+	```
+
 ---
 by: jaska n
 
