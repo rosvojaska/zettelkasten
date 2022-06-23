@@ -16,4 +16,4 @@ __Motorinen:__
 Aggressiivinen näkyvä käyttäytyminen.
 
 
-- #[[Käyttäytyminen]]
+- #[[käyttäytyminen]]
