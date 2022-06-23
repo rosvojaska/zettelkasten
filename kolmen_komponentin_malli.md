@@ -7,13 +7,14 @@ Kaikki käyttäytyminen ilmenee kolmella tasolla:
 
 Organismin geneettisen perimän, oppimishistorian ja ympäristön yhteisvaikutuksena eri komponentit painottuvat yksilöllisesti eri tilanteissa.
 
-Esimerkiksi [[vihamielisyydessä|viha]] nämä ovat seuraavat:
-__Kognitiivinen:__
+Vihan tai vihaisuuden tunteessa voi olla vaikkapa seuraavaa ([[viha]]):
+
+- __Kognitiivinen:__
 Vihamielisyys, vihamieliset ajatukset.
-__Autonominen:__
+- __Autonominen:__
 Fysiologinen reaktiivisuus eri vaikutteille.
-__Motorinen:__
+- __Motorinen:__
 Aggressiivinen näkyvä käyttäytyminen.
 
 
-- #[[käyttäytyminen]]
+#[[käyttäytyminen]]
