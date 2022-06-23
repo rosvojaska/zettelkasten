@@ -31,7 +31,7 @@ Lähes yhtä yleistä psykiatrisessa hoidossa kuin masennus ja ahdistuneisuus.
 Keskeiset komorbiditeetit:
 - vakava masennus
 - kaksisuuntainen mielialahäiriö (tyyppi 1)
-- [[Persoonallisuushäiriö]] (B klusteri, eli _dramaattiset persoonallisuushäiriöt_)
+- [[persoonallisuushäiriö]] (B klusteri, eli _dramaattiset persoonallisuushäiriöt_)
   - Epäsosiaalinen
   - Epävakaa
   - Huomiohakuinen
@@ -46,7 +46,7 @@ Kognitiiviset menetelmät:
 - Kognitiivinen uudelleenmuotoilu
   - Arvioidaan ajatusten merkitystä, validisuutta ja seurauksia
   - Mustavalkoisten ajatusten haastaminen: etsitään todisteita puolesta ja vastaan
-- [[Stress inoculation training|stressirokotus]], self-instructional training
+- Stressirokotus, _Stress inoculation training_, _self-instructional training_
   - Ihminen antaa itselleen ohjeita vaikeassa tilanteessa
   - "Rauhoitu ja rauhoitu, ei tässä ole mitään syytä hermostua"
 - Rentoutusmenetelmät
