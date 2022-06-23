@@ -22,3 +22,6 @@ __Neutraali ärsyke (NS)__ on ärsyke, josta yksilö ei ole kiinnostunut tai jok
 ---
 - ### UR, _unconditioned reaction_
 __Ehdoton reaktio (UR)__ tai ehdollistamaton reaktio on yksilön synnynnäinen reaktio __ehdottomaan ärsykkeeseen (US)__.
+
+- ### CR, _conditioned reaction_
+__Ehdollistettu reaktio (CR)__ on yksilön opittu reaktio __ehdollistettuun ärsykkeeseen (CS)__.
