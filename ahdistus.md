@@ -9,3 +9,7 @@ Ahdistuneisuus on ihmisen normaali reaktio ahdistavassa tai pelottavassa tilante
 - __Pelko__: Uhka on todellinen tai välitön
 - __Ahdistus__: Uhka on mahdollinen, mutta sen todennäköisyys on epävarma
 
+## Aivojen rakenne
+[[aivot]]
+
+Ahdistus
