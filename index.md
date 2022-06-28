@@ -46,5 +46,11 @@ Alaviitteen tekeminen:
 	```
 	[^unicode] Ja näin se siis on.
 	```
+Wiki-linkkien tekeminen:
+```
+#[[linkki]] tekee linkistä isännän
+[[linkki]]# taas tekee nykyisestä sivusta isännän linkille
+```
+
 ---
 by: jaska n
