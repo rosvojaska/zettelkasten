@@ -28,7 +28,7 @@ vihanhallinnan ongelmien hoito](./static/KKT_ryhänen_5.pdf)
 
 [[z:zettels]]
 
-
+[[z:zettels?tag=root/*]]
 
 # Täyttöohje
 Virallinen ohjeistus löytyy [täältä](https://neuron.zettel.page/).
@@ -46,9 +46,5 @@ Alaviitteen tekeminen:
 	```
 	[^unicode] Ja näin se siis on.
 	```
-    
-[[z:zettels?tag=root]]
-
 ---
 by: jaska n
-
