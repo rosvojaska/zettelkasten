@@ -1,6 +1,6 @@
 ---
 tags:
-  - ohje
+  - root/ohje
   #root
 ---
 
