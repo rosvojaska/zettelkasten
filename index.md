@@ -28,7 +28,7 @@ vihanhallinnan ongelmien hoito](./static/KKT_ryhänen_5.pdf)
 
 [[z:zettels]]
 
-[[z:zettels?tag=root/*]]
+[[z:zettels?tag=root/*&grouped&showid]]
 
 # Täyttöohje
 Virallinen ohjeistus löytyy [täältä](https://neuron.zettel.page/).
