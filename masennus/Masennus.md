@@ -1,3 +1,7 @@
+---
+tags:
+ - root
+---
 # Masennus
 
 ## Masennuksen hoito
