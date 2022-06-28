@@ -25,4 +25,4 @@ Hoidollinen ryhmä on ilmeisen tehokasta sosiaalisen fobian hoidossa. Ryhmä tuk
 
 ---
 ### Lisää aiheesta:
-#Ahdistus on tässä hyvin vahvasti läsnä.
+#[[ahdistus]] on tässä hyvin vahvasti läsnä.
