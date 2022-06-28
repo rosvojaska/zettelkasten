@@ -1,8 +1,10 @@
 ---
 date: 2022-06-28T05:32
+
+tags:
+ - hoito
 ---
 
-# abc-analyysi
-
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
-
+# ABC-analyysi
+_Activating event, Beliefs, Consequences_
+ 
