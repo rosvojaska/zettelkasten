@@ -1,7 +1,6 @@
 ---
 tags:
  - masennus
- - #root/masennus/
 ---
 # Masennus
 
