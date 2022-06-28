@@ -2,7 +2,6 @@
 date: 2022-06-14T01:56
 tags:
  - ahdistus
- #root
 ---
 
 # Sosiaalisten tilanteiden pelko
@@ -23,3 +22,7 @@ Tyypillisimmät pelottavat tilanteet luetteloidaan ja järjestetään helpoimmas
 Tilanteissa aktivoituvat automaattiset ajatukset jäsennetään lauseiksi ja tarkastellaan niiden todenmukaisuutta ja ajattelutavan säilyttämisen tai muuttamisen hyötyjä ja haittoja. Potilaalle voidaan antaa kotitehtäviä esimerkiksi edellisen viikon jännittäviin tilanteisiin liittyen. 
 
 Hoidollinen ryhmä on ilmeisen tehokasta sosiaalisen fobian hoidossa. Ryhmä tukee erityisesti tilanteiden vähittäisessä voittamisessa.
+
+---
+### Lisää aiheesta:
+#Ahdistus on tässä hyvin vahvasti läsnä.
