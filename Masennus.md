@@ -1,7 +1,6 @@
 ---
 tags:
- - root
- - root/masennus
+ - masennus
 ---
 # Masennus
 
