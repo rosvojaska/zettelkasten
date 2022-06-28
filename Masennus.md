@@ -1,7 +1,7 @@
 ---
 tags:
  - root
- - root/tunteet
+ - root/masennus
 ---
 # Masennus
 
