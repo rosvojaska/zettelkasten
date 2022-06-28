@@ -8,9 +8,9 @@ https://rosvojaska.github.io/zettelkasten/
 https://www.cerveau.app/-/rosvojaska/zettelkasten/master/index
 
 
-Linkkien lisääminen: [[linkki]] tai [linkki|teksti tulee tähän]]
+`Linkkien lisääminen: [[linkki]] tai [linkki|teksti tulee tähän]]`
 
-Eli onko tämä nyt #tag vai mikä?
+`Eli onko tämä nyt #tag vai mikä?`
 
 
 # How to publish your own [neuron] site
