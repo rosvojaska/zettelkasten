@@ -1,6 +1,6 @@
 ---
 tags:
-  - misc/readme
+  - root/ohje
 ---
 
 https://rosvojaska.github.io/zettelkasten/
