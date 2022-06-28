@@ -46,6 +46,8 @@ Alaviitteen tekeminen:
 	```
 	[^unicode] Ja näin se siis on.
 	```
+    
+[[z:zettels?tag=root]]
 
 ---
 by: jaska n
