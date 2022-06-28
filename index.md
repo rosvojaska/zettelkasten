@@ -1,8 +1,7 @@
 ---
 tags:
   - root/ohje
-  
-  #root/ohje
+  #root
 ---
 
 # Kognitiivinen käyttäytymisterapian koulutus
