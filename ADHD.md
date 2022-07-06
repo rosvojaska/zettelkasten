@@ -1,3 +1,8 @@
+---
+tags:
+ - vaivat
+---
+
 # ADHD
 
 Ei voida tutkia ADHD:ta ennen kun on traumaa hoidettu hei. - _JENNI AIRIKKA-MÄENPÄÄ_
@@ -6,7 +11,7 @@ Tarkkaavuus on tiedon valikointia.
   - Huomion suuntaaminen tai kohdentaminen
   - Huomion ylläpitämienn
   - Joustaminen
-  - Keskeisessä osassa on myös vireystilan ja isesäätelyn vaikeuksia.
+  - Keskeisessä osassa on myös vireystilan ja itsesäätelyn vaikeuksia.
 
 Kaikkia näitä asioita vaaditaan nykypäivänä työelämässä tai opiskelussa.
 Arvioiden mukaan jopa 70 % oireisista on oppimisvaikeuksia, joista yleisinpänä ovat kirjallisen ilmaisun vaikeudet.
