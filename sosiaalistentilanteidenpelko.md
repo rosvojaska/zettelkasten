@@ -2,6 +2,7 @@
 date: 2022-06-14T01:56
 tags:
  - ahdistus
+ - vaivat
 ---
 
 # Sosiaalisten tilanteiden pelko
