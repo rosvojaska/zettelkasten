@@ -21,7 +21,7 @@ Keskeisiä oireita ovat käyttäytymisen ja tunnesäätelyn hallinnan ongelmat.
 Muiden psyykkisten sairauksien komorbiditeetti on epävakaassa persoonallisuushäiriössä melko korkea. Masennuksen esiintyvyys on lähteestä riippuen jopa 83 %. Päihteidenkäyttöä esiintyy noin 65 % lähteestä riippumatta. Kompleksisessa traumaperäisessä stressihäiriössä ([[PTSD]]) on paljon samoja piirteitä, mutta epävakaassa persoonallisuushäiriössä on selkeänä erona impulsiisivuus, itsetuhoisuus, epävakaat ihmissuhteet, paranoia ja dissosiatiivisuus, hylätyksi tulemisen pelko sekä raivonpurkaukset.
 
 
-## Riskitekijät
-Monenlaiset __perinnölliset__ ja __ympäristölliset tekijät__ voivat altistaa epävakaalle persoonallisuudelle. Riskiä lisäävät myös __lapsuusajan psykiatriset häiriöt__ tai __traumaattiset kokemukset__.
+## Biososiaalinen malli
+Monenlaiset __perinnölliset__ ja __ympäristölliset tekijät__ voivat altistaa epävakaalle persoonallisuudelle. Riskiä lisäävät myös __lapsuusajan psykiatriset häiriöt__ tai __traumaattiset kokemukset__. Esiteininä tytöillä ahdistuneisuus, masennus ja käytöshäiriöoireet voivat ennakoida aikuisiässä persoonallisuushäiriötä. Pojilla taas käyttäytymisongelmat ja käytöshäiriöt ennemminkin ennakoivat epäsosiaalista kuin epävakaata persoonallisuutta.
 
-Tytöillä ahdistuneisuus, masennus ja käytöshäiriöoireet esiteininä voivat ennakoida aikuisiässä persoonallisuushäiriötä. Pojilla taas käyttäytymisongelmat ja käytöshäiriöt ennemminkin ennakoivat epäsosiaalista kuin epävakaata persoonallisuutta.
+Persoonallisuuden kehitykseen vaikuttavat synnynnäiset temperamenttimuuttujat sekä ympäristön vuorovaikutus. Tunnesäätelyn epävakaus syntyy, kun tunne-elämältään herkästi haavoittuva yksilö kasvaa ympäristössä, jossa hän ei opi herkkyytensä käsittelemiseen tarvittavia taitoja. 
