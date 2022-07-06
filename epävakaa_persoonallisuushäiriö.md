@@ -19,3 +19,9 @@ Keskeisiä oireita ovat käyttäytymisen ja tunnesäätelyn hallinnan ongelmat.
 	Ei tiedä kuka on. Yleinen tyhjyyden kokeminen.
 
 Muiden psyykkisten sairauksien komorbiditeetti on epävakaassa persoonallisuushäiriössä melko korkea. Masennuksen esiintyvyys on lähteestä riippuen jopa 83 %. Päihteidenkäyttöä esiintyy noin 65 % lähteestä riippumatta. Kompleksisessa traumaperäisessä stressihäiriössä ([[PTSD]]) on paljon samoja piirteitä, mutta epävakaassa persoonallisuushäiriössä on selkeänä erona impulsiisivuus, itsetuhoisuus, epävakaat ihmissuhteet, paranoia ja dissosiatiivisuus, hylätyksi tulemisen pelko sekä raivonpurkaukset.
+
+
+## Riskitekijät
+Monenlaiset __perinnölliset__ ja __ympäristölliset tekijät__ voivat altistaa epävakaalle persoonallisuudelle. Riskiä lisäävät myös __lapsuusajan psykiatriset häiriöt__ tai __traumaattiset kokemukset__.
+
+Tytöillä ahdistuneisuus, masennus ja käytöshäiriöoireet esiteininä voivat ennakoida aikuisiässä persoonallisuushäiriötä. Pojilla taas käyttäytymisongelmat ja käytöshäiriöt ennemminkin ennakoivat epäsosiaalista kuin epävakaata persoonallisuutta.
