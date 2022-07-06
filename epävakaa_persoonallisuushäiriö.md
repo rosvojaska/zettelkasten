@@ -2,7 +2,26 @@
 date: 2022-07-06T01:33
 ---
 
-# epävakaa_persoonallisuushäiriö
+# Epävakaa persoonallisuushäiriö
 
-Write your Markdown content here. Read [neuron documentation](https://neuron.zettel.page/2011404.html) for syntax help.
+## Oireet
+
+1. Emotionaalinen dysregulaatio
+	
+    Tunnereaktiivisuus, vihanhallinnan ongelmat, ahdistuneisuushäiriöt ja mielialaongelmat.
+
+2. Interpersonaalinen dysregulaatio
+	
+    Ihmissuhteet ovat kaoottisia, yksilöllä on intensiivisiä yrityksiä välttää hylätyksi tulemista. Pelko hylätyksi tulemisesta voi yhtä hyvin olla todellinen tai sitten kuviteltu.
+
+3. Käyttäytymisen dysregulaatio
+	
+	Impulsiivista käytöstä. Tuhoavaa tai itsetuhoista käyttäytymistä, sekä yleisesti vaarallista käyttäytymistä.
+
+Kognitiivinen dysregulaatio
+- Stressaavissa tilanteissa ilmenee nopeaa depersonalisaatiota, dissosiaatiota sekä deluusioita. Ilmenee myös ajattelun vaikeutta.
+
+Itsensä tiedostamisen dysregulaatio
+- Ei tiedä kuka on. Yleinen tyhjyyden kokeminen.
+
 
