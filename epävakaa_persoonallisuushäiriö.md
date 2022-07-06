@@ -18,5 +18,4 @@ Keskeisiä oireita ovat käyttäytymisen ja tunnesäätelyn hallinnan ongelmat.
 - #### Itsensä tiedostamisen dysregulaatio
 	Ei tiedä kuka on. Yleinen tyhjyyden kokeminen.
 
-Muiden psyykkisten sairauksien komorbiditeetti on epävakaassa persoonallisuushäiriössä melko korkea. Masennuksen esiintyvyys on lähteestä riippuen jopa 83 %. Päihteidenkäyttöä esiintyy noin 65 % lähteestä riippumatta. Kompleksisessa traumaperäisessä stressihäiriössä on paljon samoja piirteitä, mutta epävakaassa persoonallisuushäiriössä on selkeänä erona impulsiisivuus, itsetuhoisuus, epävakaat ihmissuhteet, paranoia ja dissosiatiivisuus, hylätyksi tulemisen pelko sekä raivonpurkaukset.
-[[index]]
+Muiden psyykkisten sairauksien komorbiditeetti on epävakaassa persoonallisuushäiriössä melko korkea. Masennuksen esiintyvyys on lähteestä riippuen jopa 83 %. Päihteidenkäyttöä esiintyy noin 65 % lähteestä riippumatta. Kompleksisessa traumaperäisessä stressihäiriössä ([[PTSD]]) on paljon samoja piirteitä, mutta epävakaassa persoonallisuushäiriössä on selkeänä erona impulsiisivuus, itsetuhoisuus, epävakaat ihmissuhteet, paranoia ja dissosiatiivisuus, hylätyksi tulemisen pelko sekä raivonpurkaukset.
